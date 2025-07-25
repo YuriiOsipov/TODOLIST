@@ -193,6 +193,7 @@ body {
 #posts-container {
   width: 100%;
   max-width: 1200px;
+  margin-inline: auto;
   margin-top: 20px;
 }
 
